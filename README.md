@@ -8,7 +8,7 @@ The exploit targets a **buffer overflow vulnerability** found in the binary prov
 
 ## 📂 Contents
 
-- `exploit.py` – Python exploit script.
+- `exploit.py` – Python-based exploit targeting the buffer overflow vulnerability.
 - `README.md` – This file.
 
 ---
