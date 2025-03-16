@@ -8,7 +8,7 @@ The exploit targets a **buffer overflow vulnerability** found in the binary prov
 
 ## 📂 Contents
 
-- `brainpan.py` – Python exploit script.
+- `exploit.py` – Python exploit script.
 - `README.md` – This file.
 
 ---
