@@ -1,4 +1,4 @@
-# 🧠 Brainpan 1 - TryHackMe Exploit
+# 🧠 Brainpan 1 Exploit
 
 This repository contains an exploit I developed as part of the **Brainpan 1** challenge on **TryHackMe**.
 
